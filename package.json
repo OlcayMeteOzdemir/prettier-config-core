@@ -5,7 +5,9 @@
 	"main": "index.js",
 	"scripts": {
 		"js-lint": "eslint **/*.{js,jsx,cjs,mjs,ts}",
-		"js-fix": "eslint --fix **/*.{js,jsx,cjs,mjs,ts}"
+		"js-fix": "eslint --fix **/*.{js,jsx,cjs,mjs,ts}",
+		"md-lint": "markdownlint **/*.md",
+		"md-fix": "markdownlint --fix **/*.md"
 	},
 	"repository": {
 		"type": "git",
@@ -20,9 +22,11 @@
 	"homepage": "https://github.com/OlcayMeteOzdemir/prettier-config-core#readme",
 	"devDependencies": {
 		"@meteozdemir/eslint-config-core": "^1.0.0",
+		"@meteozdemir/markdownlint-config-core": "^1.0.0",
 		"eslint": "^8.27.0",
 		"eslint-plugin-import": "^2.26.0",
-		"eslint-plugin-prettier": "^4.2.1"
+		"eslint-plugin-prettier": "^4.2.1",
+		"markdownlint-cli": "^0.32.2"
 	},
 	"peerDependencies": {}
 }
