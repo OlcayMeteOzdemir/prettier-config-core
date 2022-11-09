@@ -1,0 +1,20 @@
+{
+	"name": "@meteozdemir/prettier-config-core",
+	"version": "1.0.0",
+	"description": "Custom Prettier settings as an extensible shared config.",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/OlcayMeteOzdemir/prettier-config-core.git"
+	},
+	"keywords": [
+		"prettier",
+		"prettier-config"
+	],
+	"author": "Olcay Mete Ozdemir",
+	"license": "MIT",
+	"homepage": "https://github.com/OlcayMeteOzdemir/prettier-config-core#readme",
+	"devDependencies": {},
+	"peerDependencies": {}
+}
