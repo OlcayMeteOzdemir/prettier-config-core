@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const configPath = path.join(process.env.INIT_CWD, '.prettierrc.js');
+const configPath = path.join(process.env.INIT_CWD, '.prettierrc.cjs');
 const ignorePath = path.join(process.env.INIT_CWD, '.prettierignore');
 
 if (!fs.existsSync(configPath)) {
