@@ -25,7 +25,7 @@ npm i -D @meteozdemir/prettier-config-core prettier
 
 ## Usage
 
-A `.prettierrc.js` file will be automatically created in the root of your project with:
+A `.prettierrc.cjs` file will be automatically created in the root of your project with:
 
 ```javascript
 module.exports = {
@@ -33,11 +33,11 @@ module.exports = {
 };
 ```
 
-If the file is not created automatically by any reason, simply create a `.prettierrc.js` file in the root of project and copy code above.
+If the file is not created automatically by any reason, simply create a `.prettierrc.cjs` file in the root of project and copy code above.
 
 ## Rule Override
 
-Add any rule you want to override to `.prettierrc.js` file.
+Add any rule you want to override to `.prettierrc.cjs` file.
 
 ```javascript
 module.exports = {
