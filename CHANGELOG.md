@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.4 - January 9, 2023
+
+  - Updated: Prettier 2.8.1 to 2.8.2
+
 ## v1.0.3 - December 16, 2022
 
   - Fixed: Post install script changed for support ES Module
