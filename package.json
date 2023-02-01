@@ -1,6 +1,6 @@
 {
 	"name": "@meteozdemir/prettier-config-core",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Custom Prettier settings as an extensible shared config.",
 	"main": "index.js",
 	"scripts": {
