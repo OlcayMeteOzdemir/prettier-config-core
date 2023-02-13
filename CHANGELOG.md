@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.6 - February 13, 2023
+
+  - Updated: Prettier 2.8.3 to 2.8.4
+
 ## v1.0.5 - February 1, 2023
 
   - Updated: Prettier 2.8.2 to 2.8.3
